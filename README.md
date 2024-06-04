@@ -1,1 +1,1 @@
-# validating_precision_accuracy_coral_fragments
+# Validating the Precision and Accuracy of Coral Fragment Photogrammetry
